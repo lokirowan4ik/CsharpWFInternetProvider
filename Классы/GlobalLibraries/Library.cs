@@ -1,0 +1,16 @@
+﻿global using System;
+global using System.Data;
+global using System.Data.SqlClient;
+global using System.Drawing;
+global using System.Text.RegularExpressions;
+global using System.Windows.Forms;
+global using Курсовая.Интерфейсы.Абстрактные_классы;
+global using Курсовая.Интерфейсы.Общие;
+global using Курсовая.Интерфейсы.Целевые;
+global using Курсовая.Классы.Методы;
+global using Курсовая.Классы.Методы.Общие_Методы;
+global using Курсовая.Формы.Добавления_новых_значений_в_таблицы;
+global using Курсовая.Формы.Добавления_новых_значений_в_таблицы.Методы_для_создания;
+global using Курсовая.Формы.Создание_рабочих;
+global using Курсовая.Формы.Создание_рабочих.Методы_для_создания;
+global using Курсовая.Формы.Формы_с_календарем;

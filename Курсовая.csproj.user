@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Формы\LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Добавления новых значений в таблицы\AddBrig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Добавления новых значений в таблицы\AddMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Добавления новых значений в таблицы\AddObject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Добавления новых значений в таблицы\AddWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Добавления новых значений в таблицы\AddMaterialOffered.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Добавления новых значений в таблицы\AddWorks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Формы с календарем\CalendarForDateGivenMatOf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Формы с календарем\CalendarsForObjects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Формы с календарем\CalendarsForWorks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
